@@ -18,5 +18,5 @@
   <code>Bunkercoin Address: Ef8ciuxjJ91fJ9yLizvikcUNFnkLbw8kpN9cYrJnBAGS</code>
 </p>
 <p align="center">
-   <a href="#"> Bags Hackathon link</a>
+   <a href="https://bags.fm/apps/7cccc067-9750-45fe-8f88-9a25d5130027"> Bags Hackathon link</a>
 </p>
